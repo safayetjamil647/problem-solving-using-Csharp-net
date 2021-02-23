@@ -1,0 +1,13 @@
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\Safayet Jamil\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache

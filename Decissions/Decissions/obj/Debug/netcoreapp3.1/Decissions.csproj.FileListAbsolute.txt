@@ -1,0 +1,13 @@
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\bin\Debug\netcoreapp3.1\Decissions.exe
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\bin\Debug\netcoreapp3.1\Decissions.deps.json
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\bin\Debug\netcoreapp3.1\Decissions.runtimeconfig.json
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\bin\Debug\netcoreapp3.1\Decissions.runtimeconfig.dev.json
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\bin\Debug\netcoreapp3.1\Decissions.dll
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\bin\Debug\netcoreapp3.1\Decissions.pdb
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.csprojAssemblyReference.cache
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.AssemblyInfoInputs.cache
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.AssemblyInfo.cs
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.csproj.CoreCompileInputs.cache
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.dll
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.pdb
+C:\Users\Safayet Jamil\source\repos\Decissions\Decissions\obj\Debug\netcoreapp3.1\Decissions.genruntimeconfig.cache
